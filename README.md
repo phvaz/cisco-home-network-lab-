@@ -96,7 +96,7 @@ The following validations were performed:
 
 ## File
 
-- `lab-natsumi-home-network.pka` → Packet Tracer activity file containing full configuration
+- `Configure a Wireless Router and Client.pka` → Packet Tracer activity file containing full configuration
 
 ---
 
